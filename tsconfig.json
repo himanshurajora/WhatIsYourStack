@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "target": "ES3",
-        "strict": true
+        "strict": true,
+        "strictNullChecks": false,
     }
 }
